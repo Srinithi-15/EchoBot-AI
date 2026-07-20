@@ -1,0 +1,6 @@
+{
+  "name": "EchoBot AI",
+  "description": "An Intelligent Voice & Text Communication Assistant powered by Artificial Intelligence.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
